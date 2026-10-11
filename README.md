@@ -1,11 +1,6 @@
 # Sevenband Master
 
-Per-band adaptive mastering for the master bus or a sub-bus. Tonal balance + multiband dynamics only:
-no loudness metering, no limiter. Do peaks/loudness with whatever limiter you already like.
-
-
-Delete the `build` folder first when upgrading. Parameters were removed (LUFS Offset, Auto Gain, Limiter,
-Ceiling), so old FL projects load with defaults.
+Per-band adaptive mastering for the master bus or a sub-bus. Tonal balance + multiband dynamics.
 
 ## Signal flow
 
